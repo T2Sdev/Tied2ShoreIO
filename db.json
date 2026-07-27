@@ -645,7 +645,7 @@
       ],
       "country": "Belgium",
       "city": "Ghent",
-      "website": "stellamarisgent.be/en",
+      "website": "stellamarisgent.be/en/sailors",
       "email": "stellamarisgent@proximus.be",
       "phone": "+329251863",
       "whatsapp": "+32476502629",
@@ -681,20 +681,6 @@
       "whatsapp": "+14413352783",
       "gmapID": "ChIJ_Q3mbfARLYoRMaqUUx42Ke0",
       "id": 202
-    },
-    {
-      "name": "Mission to Seafarers",
-      "coordinates": [
-        0.70269,
-        -46.30845
-      ],
-      "city": "Belem",
-      "country": "Brazil",
-      "website": "facebook.com/missaoaosmaritimos",
-      "email": "gabrielosouzasz@gmail.com",
-      "phone": "+5591991483460",
-      "whatsapp": "+5591991483760",
-      "id": 284
     },
     {
       "name": "Paranagua Seafarer's Mission",
@@ -4191,5 +4177,5 @@
       "id": 196
     }
   ],
-  "rev_ts": 1784838586
+  "rev_ts": 1785165270
 }

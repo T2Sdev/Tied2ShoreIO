@@ -1124,8 +1124,8 @@
     {
       "name": "Aarhus Seamen's Club",
       "coordinates": [
-        58.31076,
-        12.3756
+        58.33006,
+        12.35385
       ],
       "city": "Aarhus",
       "country": "Denmark",
@@ -1133,7 +1133,6 @@
       "phone": "+4586121699",
       "whatsapp": "+4530491999",
       "website": "seamensclubaarhus.dk",
-      "gmapID": "ChIJIfydUKQ_TEYRfMXUIhdF4vm",
       "id": 61
     },
     {
@@ -1792,6 +1791,19 @@
       "phone": "+302104287666",
       "whatsapp": "+306944346519",
       "id": 261
+    },
+    {
+      "name": "The Seamen's Home",
+      "coordinates": [
+        70.86517,
+        -50.72135
+      ],
+      "city": "Aasiaat",
+      "country": "Greenland",
+      "email": "pk@hotelsoma.gl",
+      "phone": "+299235202",
+      "gmapID": "ChIJP9sFtb11jU4R3xKGuiQhPd0",
+      "id": 308
     },
     {
       "name": "The Seamen's Home",
@@ -3256,6 +3268,18 @@
       "id": 210
     },
     {
+      "name": "United Seamen's Service",
+      "coordinates": [
+        35.75599,
+        -5.4478
+      ],
+      "city": "Cassablanca",
+      "country": "Morocco",
+      "phone": "+212522310050",
+      "gmapID": "ChIJMQDiPXvNpw0RC2kh2dFgOUG",
+      "id": 307
+    },
+    {
       "name": "Baltimore Baptist Port Ministry",
       "coordinates": [
         41.42468,
@@ -3660,6 +3684,7 @@
       "website": "lmmsocal.com",
       "email": "LMMSOCAL@GMAIL.COM",
       "phone": "+15622091677",
+      "whatsapp": "+15622091977",
       "gmapID": "ChIJ__-vVco23YARnt55YNVxgB0",
       "id": 168
     },
@@ -3759,19 +3784,35 @@
       "id": 264
     },
     {
-      "name": "The Seamen's Church Institute of New York and New Jersey",
+      "name": "The Seamen's Church Institute - International Seafarers Center",
       "coordinates": [
-        42.89626,
-        -71.85594
+        42.8467,
+        -71.98568
       ],
       "city": "New York",
       "state": "New York",
       "country": "United States",
-      "website": "seamenschurch.org/",
-      "email": "seafarers@seamenschurch.org",
-      "phone": "+12123499190",
+      "website": "seamenschurch.org/programs-services/port-of-ny-nj",
+      "email": "ISC@seamenschurch.org",
+      "phone": "+19735895928",
       "whatsapp": "+18622370416",
+      "gmapID": "ChIJM6UzrTZSwokRycpLXWoyfpS",
       "id": 174
+    },
+    {
+      "name": "Seamen's Church Institute  - Ministry on the River",
+      "coordinates": [
+        39.24579,
+        -86.43561
+      ],
+      "city": "Paducah",
+      "state": "Kentucky",
+      "country": "United States",
+      "website": "seamenschurch.org/programs-services/ministry-on-the-river",
+      "email": "MOR@seamenschurch.org",
+      "phone": "+18007082098",
+      "gmapID": "ChIJ7X_06LIReogRnsqv8tDOgNC",
+      "id": 309
     },
     {
       "name": "Seafarer's Friend, Portsmouth",
@@ -4139,8 +4180,9 @@
       "state": "Florida",
       "country": "United States",
       "website": "tampaportministries.org",
-      "email": "SteveFinnesy@gmail.com",
-      "phone": "+18132475373",
+      "email": "anthony.tpministries@gmail.com",
+      "phone": "+18134420303",
+      "whatsapp": "+18134420603",
       "pmi": true,
       "gmapID": "ChIJ49_g6ObEwogR-1Efitg7LHq",
       "id": 194
@@ -4177,5 +4219,5 @@
       "id": 196
     }
   ],
-  "rev_ts": 1785165270
+  "rev_ts": 1786386187
 }

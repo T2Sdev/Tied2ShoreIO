@@ -3789,10 +3789,10 @@
         42.8467,
         -71.98568
       ],
-      "city": "New York",
-      "state": "New York",
+      "city": "Port Newark",
+      "state": "New Jersey",
       "country": "United States",
-      "website": "seamenschurch.org/programs-services/port-of-ny-nj",
+      "website": "seamenschurch.org/programs-services/port-of-ny-nj/port-newark-international-seafarers-center",
       "email": "ISC@seamenschurch.org",
       "phone": "+19735895928",
       "whatsapp": "+18622370416",
@@ -4219,5 +4219,5 @@
       "id": 196
     }
   ],
-  "rev_ts": 1786386187
+  "rev_ts": 1786391928
 }

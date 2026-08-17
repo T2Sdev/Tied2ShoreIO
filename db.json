@@ -4047,24 +4047,6 @@
       "id": 186
     },
     {
-      "name": "Global Maritime Ministries, River Parishes",
-      "logo": "GMM",
-      "coordinates": [
-        32.21276,
-        -88.39579
-      ],
-      "city": "Reserve",
-      "state": "Louisiana",
-      "country": "United States",
-      "website": "portministry.com/seafarers/seafarer-services",
-      "email": "info@portministry.com",
-      "phone": "+19852106053",
-      "whatsapp": "+19852106353",
-      "pmi": true,
-      "gmapID": "ChIJ8YjPNXLWIIYRI9b-EvRYBEO",
-      "id": 187
-    },
-    {
       "name": "Port of Palm Beach Seafarers' Center",
       "coordinates": [
         28.92368,
@@ -4219,5 +4201,5 @@
       "id": 196
     }
   ],
-  "rev_ts": 1786391928
+  "rev_ts": 1786990210
 }
